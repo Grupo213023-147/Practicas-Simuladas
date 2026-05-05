@@ -15,7 +15,7 @@ logger = Logger()
 # FUNCIONES
 # -------------------------
 
-def crear_cliente():
+def crear_cliente(): #Prueba de commit
     try:
         nombre = entry_nombre.get()
         identificacion = entry_id.get()

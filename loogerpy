@@ -1,0 +1,20 @@
+# ============================================
+# SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES
+# SERVICIOS Y RESERVAS
+# Clase Logger del sistema
+# Autor: KAROL YULIANA VARGAS RIZO
+#
+# Funciones principales:
+# - Registrar mensajes del sistema
+# - Mostrar errores y eventos
+# - Ayudar en la depuración
+# - Controlar acciones importantes
+# ============================================
+
+class Logger:
+
+    # Método para registrar mensajes
+    # Recibe un mensaje y lo muestra en consola
+    def log(self, mensaje):
+
+        print(f"LOG: {mensaje}")

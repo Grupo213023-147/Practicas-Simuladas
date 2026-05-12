@@ -1,18 +1,19 @@
-# ============================================
-# CLASES SERVICIOS
-# ============================================
-class Servicio:
-   def __init__(self, nombre, precio):
-       self.nombre = nombre
-       self.precio = precio
-   def descripcion(self):
-       return f"{self.nombre} - ${self.precio:.2f}"
+# ============================================================
+# SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
+# Clase Servicio del sistema
+# Autor: KAROL YULIANA VARGAS RIZO
+#
+# Funciones principales:
+# - Registro de servicios
+# - Clasificación de servicios por categoría
+# - Gestión de precios
+# - Visualización de detalles del servicio
+# ============================================================ 
+class Cliente:
 
-class ServicioSala(Servicio):
-   pass
+   def _init_(self, nombre, identificacion):
+       self.nombre = nombre
+       self.identificacion = identificacion
 
-class ServicioEquipo(Servicio):
-   pass
-
-class ServicioAsesoria(Servicio):
-   pass
+   def get_nombre(self):
+       return self.nombre

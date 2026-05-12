@@ -10,6 +10,9 @@ from tkinter import messagebox
 # ============================================
 class Logger:
    def log(self, mensaje):
+       with open("logs.txt", "a", encoding="utf-8") as archivo:
+           archivo.write(f"LOG: {mensaje}\n")
+
        print(f"LOG: {mensaje}")
 
 # ============================================

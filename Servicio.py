@@ -9,11 +9,24 @@
 # - Gestión de precios
 # - Visualización de detalles del servicio
 # ============================================================ 
-class Cliente:
+class Servicio:
 
-   def _init_(self, nombre, identificacion):
+   def _init_(self, nombre, precio):
        self.nombre = nombre
-       self.identificacion = identificacion
+       self.precio = precio
 
-   def get_nombre(self):
-       return self.nombre
+   def descripcion(self):
+       return f"{self.nombre} - ${self.precio:.2f}"
+
+
+class ServicioSala(Servicio):
+   pass
+
+
+class ServicioEquipo(Servicio):
+   pass
+
+
+class ServicioAsesoria(Servicio):
+   pass
+

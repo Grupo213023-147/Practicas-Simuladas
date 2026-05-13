@@ -1,6 +1,5 @@
 # ============================================================
-# SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES, SERVICIOS Y RESERVAS
-# Clase Servicio del sistema
+# Clase Servicio
 # Autor: KAROL YULIANA VARGAS RIZO
 #
 # Funciones principales:

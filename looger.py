@@ -1,6 +1,5 @@
 # ============================================
-# SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES
-# SERVICIOS Y RESERVAS
+# RESERVAS
 # Clase Logger del sistema
 # ============================================
 

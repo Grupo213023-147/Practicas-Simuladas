@@ -1,4 +1,8 @@
-# ============================================
+# Sistema integral de gestion de  clientes, servicios y reservas
+# Mabel Bermudez
+
+
+# =================================== =========
 # SISTEMA INTEGRAL DE GESTIÓN DE CLIENTES
 # SERVICIOS Y RESERVAS
 # ============================================
@@ -10,9 +14,6 @@ from tkinter import messagebox
 # ============================================
 class Logger:
    def log(self, mensaje):
-       with open("logs.txt", "a", encoding="utf-8") as archivo:
-           archivo.write(f"LOG: {mensaje}\n")
-
        print(f"LOG: {mensaje}")
 
 # ============================================

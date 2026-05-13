@@ -1,3 +1,14 @@
 LOG: Ingrese el nombre del cliente
 juan perez
 LOG: Ingrese la identificación
+LOG: El nombre solo debe contener letras
+LOG: El nombre solo debe contener letras
+LOG: El nombre solo debe contener letras
+LOG: Ingrese el nombre del servicio
+LOG: Ingrese el precio
+LOG: Ingrese el nombre del servicio
+LOG: Ingrese el nombre del servicio
+LOG: Ingrese el precio
+LOG: Ingrese el nombre del servicio
+LOG: Ingrese el nombre del servicio
+LOG: Ingrese el nombre del servicio

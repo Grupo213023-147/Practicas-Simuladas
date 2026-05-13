@@ -1,0 +1,3 @@
+LOG: Ingrese el nombre del cliente
+juan perez
+LOG: Ingrese la identificación

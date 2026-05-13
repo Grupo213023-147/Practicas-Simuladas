@@ -1,10 +1,8 @@
 # ============================================
 # MÓDULO DE EXCEPCIONES PERSONALIZADAS
-#
-# Este archivo contiene las excepciones
-# utilizadas en el sistema para manejar
-# errores de forma robusta y controlada.
+# Este archivo contiene las excepciones utilizadas en el sistema para manejar errores de forma robusta y controlada.
 # ============================================
+
 class ErrorSistema(Exception):
     """Clase base para todos los errores del sistema"""
     pass

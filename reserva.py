@@ -1,5 +1,5 @@
 # ============================================================
-# esta es la clase Reserva del sistema
+# clase Reserva 
 # Autor: KAROL YULIANA VARGAS RIZO
 # ============================================================
 

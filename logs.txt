@@ -1,0 +1,3 @@
+Sistema iniciado correctamente
+Nueva reserva registrada
+Servicio actualizado

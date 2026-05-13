@@ -12,3 +12,9 @@ LOG: Ingrese el precio
 LOG: Ingrese el nombre del servicio
 LOG: Ingrese el nombre del servicio
 LOG: Ingrese el nombre del servicio
+Sistema iniciado correctamente
+Nueva reserva registrada
+Servicio actualizado
+Sistema iniciado correctamente
+Nueva reserva registrada
+Servicio actualizado

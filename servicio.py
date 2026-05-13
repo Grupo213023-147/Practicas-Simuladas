@@ -1,5 +1,5 @@
 # ============================================================
-# Clase Servicio
+# SClases Servicio
 # Autor: KAROL YULIANA VARGAS RIZO
 #
 # Funciones principales:
